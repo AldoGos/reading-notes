@@ -1,7 +1,7 @@
 **1. ¿Qué es Markdown?**  
    Es un lenguage que simplifica la creación de codigo html. Podemos prescindir de las etiquetas y utilizar el formato md como si fuera un texto plano y este sera renderizado (formateado) como si fuera html.  
 
-**2. ¿Por qué utilizamos Markdown?**
+**2. ¿Por qué utilizamos Markdown?**  
 Porque es más simple que escribir HTML. Además permite editar el codigo desde cualqueir editor de texto plano. 
 
 **3. ¿Qué símbolo creará un encabezado en Markdown?**
