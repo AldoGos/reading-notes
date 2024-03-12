@@ -12,5 +12,6 @@ ___
 - Los problemas son solo retos
 - Nadie nace sabiendo
 - Si el puede , yo también puedo.
-> utilizando la funcion de cita. - tomado de san google
-[enlace a sintaxis de markdown ]([http://www.limni.net](https://markdown.es/sintaxis-markdown/#links)https://markdown.es/sintaxis-markdown/#links)
+> utilizando la funcion de cita. - tomado de san google.
+> 
+[enlace a sintaxis de markdown]([http://www.limni.net](https://markdown.es/sintaxis-markdown/#links)https://markdown.es/sintaxis-markdown/#links)
