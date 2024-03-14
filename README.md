@@ -1,8 +1,4 @@
-# INDICE
-lista de laboratorios:
-[lab 01](./102/class01.md)
-[lab 02](./102/class02.md)
-[lab 03](./102/class03.md)
+
 
 **1. ¿Qué es Markdown?**  
    Es un lenguage que simplifica la creación de codigo html. Podemos prescindir de las etiquetas y utilizar el formato md como si fuera un texto plano y este sera renderizado (formateado) como si fuera html.  
