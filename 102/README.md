@@ -3,6 +3,7 @@
 [lab 01](./class01.md)  
 [lab 02](./class02.md)  
 [lab 03](./class03.md)  
+[lab 04](./class04.md) 
 
 
 
